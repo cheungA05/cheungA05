@@ -20,8 +20,8 @@ type="text/css"
 </ul>
 <h3> Shackleton's Life </h3> 
 
-<p> <a href="https://en.wikipedia.org/wiki/Ernest_Shackleton>Ernest Shackleton on Wikipedia</a>
-Sir Ernest Shackleton was an Anglo-Irish Antarctic explorer and is famous, principally, for leading the Imperial Trans-Antartic (Endurance) Expedition of 1914-16.</p>
+<p> <a href="https://en.wikipedia.org/wiki/Ernest_Shackleton>Ernest Shackleton on Wikipedia>
+Sir Ernest Shackleton</a> was an Anglo-Irish Antarctic explorer and is famous, principally, for leading the Imperial Trans-Antartic (Endurance) Expedition of 1914-16.</p>
 
 <p> He was one of the principal figures of the period known as the Heroic Age of Antartic Exploration. Educated at Dulwich College and having ignored his father's wishes that he become a doctor he joined the merchant navy. Of many quotes one of his most famous is,"Difficulties are just things to overcome, after all." </p> 
 
